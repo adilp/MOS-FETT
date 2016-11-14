@@ -1,0 +1,3703 @@
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 202, in read_Lidar
+    update_view(index * 4 + 3, b_data3)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 202, in read_Lidar
+    update_view(index * 4 + 3, b_data3)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 202, in read_Lidar
+    update_view(index * 4 + 3, b_data3)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 202, in read_Lidar
+    update_view(index * 4 + 3, b_data3)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 200, in read_Lidar
+    update_view(index * 4 + 1, b_data1)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 202, in read_Lidar
+    update_view(index * 4 + 3, b_data3)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 202, in read_Lidar
+    update_view(index * 4 + 3, b_data3)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 200, in read_Lidar
+    update_view(index * 4 + 1, b_data1)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 202, in read_Lidar
+    update_view(index * 4 + 3, b_data3)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 202, in read_Lidar
+    update_view(index * 4 + 3, b_data3)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 200, in read_Lidar
+    update_view(index * 4 + 1, b_data1)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 202, in read_Lidar
+    update_view(index * 4 + 3, b_data3)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 202, in read_Lidar
+    update_view(index * 4 + 3, b_data3)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 202, in read_Lidar
+    update_view(index * 4 + 3, b_data3)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 202, in read_Lidar
+    update_view(index * 4 + 3, b_data3)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 202, in read_Lidar
+    update_view(index * 4 + 3, b_data3)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 200, in read_Lidar
+    update_view(index * 4 + 1, b_data1)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 202, in read_Lidar
+    update_view(index * 4 + 3, b_data3)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 202, in read_Lidar
+    update_view(index * 4 + 3, b_data3)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 200, in read_Lidar
+    update_view(index * 4 + 1, b_data1)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 200, in read_Lidar
+    update_view(index * 4 + 1, b_data1)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 202, in read_Lidar
+    update_view(index * 4 + 3, b_data3)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 202, in read_Lidar
+    update_view(index * 4 + 3, b_data3)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 200, in read_Lidar
+    update_view(index * 4 + 1, b_data1)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 200, in read_Lidar
+    update_view(index * 4 + 1, b_data1)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 50, in update_view
+    x = askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 202, in read_Lidar
+    update_view(index * 4 + 3, b_data3)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 201, in read_Lidar
+    update_view(index * 4 + 2, b_data2)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lidarData[i][0]
+IndexError: list assignment index out of range
+Traceback (most recent call last):
+  File "distrightest.py", line 199, in read_Lidar
+    update_view(index * 4 + 0, b_data0)
+  File "distrightest.py", line 54, in update_view
+    askewYou()
+  File "distrightest.py", line 102, in askewYou
+    x_array[index]=math.cos(angle)*lid

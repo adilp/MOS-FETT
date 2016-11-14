@@ -1,0 +1,960 @@
+started at 346
+dist from right is 556 with 1 items in list
+added angle 347
+dist from right is 556 with 2 items in list
+added angle 348
+dist from right is 556 with 3 items in list
+added angle 349
+dist from right is 556 with 4 items in list
+added angle 350
+dist from right is 555 with 5 items in list
+added angle 351
+dist from right is 556 with 6 items in list
+added angle 352
+dist from right is 556 with 7 items in list
+added angle 353
+dist from right is 556 with 8 items in list
+added angle 354
+dist from right is 555 with 9 items in list
+added angle 355
+dist from right is 555 with 10 items in list
+added angle 356
+dist from right is 555 with 11 items in list
+added angle 357
+dist from right is 555 with 12 items in list
+added angle 358
+dist from right is 555 with 13 items in list
+added angle 359
+dist from right is 555 with 14 items in list
+added angle 0
+dist from right is 555 with 15 items in list
+added angle 1
+dist from right is 555 with 16 items in list
+added angle 2
+dist from right is 555 with 17 items in list
+added angle 3
+dist from right is 555 with 18 items in list
+added angle 4
+dist from right is 555 with 19 items in list
+added angle 5
+dist from right is 555 with 20 items in list
+added angle 6
+dist from right is 555 with 21 items in list
+added angle 7
+dist from right is 555 with 22 items in list
+added angle 8
+dist from right is 555 with 23 items in list
+added angle 9
+dist from right is 554 with 24 items in list
+added angle 10
+dist from right is 554 with 25 items in list
+added angle 11
+dist from right is 554 with 26 items in list
+added angle 12
+dist from right is 554 with 27 items in list
+added angle 13
+dist from right is 554 with 28 items in list
+added angle 14
+dist from right is 554 with 29 items in list
+added angle 15
+dist from right is 554 with 30 items in list
+reset at 346
+dist from right is 556 with 1 items in list
+added angle 347
+dist from right is 556 with 2 items in list
+added angle 348
+dist from right is 556 with 3 items in list
+added angle 349
+dist from right is 556 with 4 items in list
+added angle 350
+dist from right is 556 with 5 items in list
+added angle 351
+dist from right is 556 with 6 items in list
+added angle 352
+dist from right is 556 with 7 items in list
+added angle 353
+dist from right is 556 with 8 items in list
+added angle 354
+dist from right is 555 with 9 items in list
+added angle 355
+dist from right is 555 with 10 items in list
+added angle 356
+dist from right is 555 with 11 items in list
+added angle 357
+dist from right is 555 with 12 items in list
+added angle 358
+dist from right is 555 with 13 items in list
+added angle 359
+dist from right is 555 with 14 items in list
+added angle 0
+dist from right is 555 with 15 items in list
+added angle 1
+dist from right is 555 with 16 items in list
+added angle 2
+dist from right is 555 with 17 items in list
+added angle 3
+dist from right is 555 with 18 items in list
+added angle 4
+dist from right is 555 with 19 items in list
+added angle 5
+dist from right is 555 with 20 items in list
+added angle 6
+dist from right is 555 with 21 items in list
+added angle 7
+dist from right is 555 with 22 items in list
+added angle 8
+dist from right is 555 with 23 items in list
+added angle 9
+dist from right is 554 with 24 items in list
+added angle 10
+dist from right is 554 with 25 items in list
+added angle 11
+dist from right is 554 with 26 items in list
+added angle 12
+dist from right is 554 with 27 items in list
+added angle 13
+dist from right is 554 with 28 items in list
+added angle 14
+dist from right is 554 with 29 items in list
+added angle 15
+dist from right is 554 with 30 items in list
+reset at 346
+dist from right is 556 with 1 items in list
+added angle 347
+dist from right is 556 with 2 items in list
+added angle 348
+dist from right is 556 with 3 items in list
+added angle 349
+dist from right is 556 with 4 items in list
+added angle 350
+dist from right is 556 with 5 items in list
+added angle 351
+dist from right is 556 with 6 items in list
+added angle 352
+dist from right is 556 with 7 items in list
+added angle 353
+dist from right is 556 with 8 items in list
+added angle 354
+dist from right is 555 with 9 items in list
+added angle 355
+dist from right is 555 with 10 items in list
+added angle 356
+dist from right is 555 with 11 items in list
+added angle 357
+dist from right is 555 with 12 items in list
+added angle 358
+dist from right is 555 with 13 items in list
+added angle 359
+dist from right is 555 with 14 items in list
+added angle 0
+dist from right is 555 with 15 items in list
+added angle 1
+dist from right is 555 with 16 items in list
+added angle 2
+dist from right is 555 with 17 items in list
+added angle 3
+dist from right is 555 with 18 items in list
+added angle 4
+dist from right is 555 with 19 items in list
+added angle 5
+dist from right is 555 with 20 items in list
+added angle 6
+dist from right is 555 with 21 items in list
+added angle 7
+dist from right is 555 with 22 items in list
+added angle 8
+dist from right is 555 with 23 items in list
+added angle 9
+dist from right is 554 with 24 items in list
+added angle 10
+dist from right is 554 with 25 items in list
+added angle 11
+dist from right is 554 with 26 items in list
+added angle 12
+dist from right is 554 with 27 items in list
+added angle 13
+dist from right is 554 with 28 items in list
+added angle 14
+dist from right is 554 with 29 items in list
+added angle 15
+dist from right is 554 with 30 items in list
+reset at 346
+dist from right is 556 with 1 items in list
+added angle 347
+dist from right is 556 with 2 items in list
+added angle 348
+dist from right is 556 with 3 items in list
+added angle 349
+dist from right is 556 with 4 items in list
+added angle 350
+dist from right is 556 with 5 items in list
+added angle 351
+dist from right is 556 with 6 items in list
+added angle 352
+dist from right is 556 with 7 items in list
+added angle 353
+dist from right is 555 with 8 items in list
+added angle 354
+dist from right is 555 with 9 items in list
+added angle 355
+dist from right is 555 with 10 items in list
+added angle 356
+dist from right is 555 with 11 items in list
+added angle 357
+dist from right is 555 with 12 items in list
+added angle 358
+dist from right is 555 with 13 items in list
+added angle 359
+dist from right is 555 with 14 items in list
+added angle 0
+dist from right is 555 with 15 items in list
+added angle 1
+dist from right is 555 with 16 items in list
+added angle 2
+dist from right is 555 with 17 items in list
+added angle 3
+dist from right is 555 with 18 items in list
+added angle 4
+dist from right is 555 with 19 items in list
+added angle 5
+dist from right is 555 with 20 items in list
+added angle 6
+dist from right is 555 with 21 items in list
+added angle 7
+dist from right is 555 with 22 items in list
+added angle 8
+dist from right is 555 with 23 items in list
+added angle 9
+dist from right is 554 with 24 items in list
+added angle 10
+dist from right is 554 with 25 items in list
+added angle 11
+dist from right is 554 with 26 items in list
+added angle 12
+dist from right is 554 with 27 items in list
+added angle 13
+dist from right is 554 with 28 items in list
+added angle 14
+dist from right is 554 with 29 items in list
+added angle 15
+dist from right is 554 with 30 items in list
+reset at 346
+dist from right is 556 with 1 items in list
+added angle 347
+dist from right is 556 with 2 items in list
+added angle 348
+dist from right is 556 with 3 items in list
+added angle 349
+dist from right is 556 with 4 items in list
+added angle 350
+dist from right is 556 with 5 items in list
+added angle 351
+dist from right is 556 with 6 items in list
+added angle 352
+dist from right is 556 with 7 items in list
+added angle 353
+dist from right is 556 with 8 items in list
+added angle 354
+dist from right is 555 with 9 items in list
+added angle 355
+dist from right is 555 with 10 items in list
+added angle 356
+dist from right is 555 with 11 items in list
+added angle 357
+dist from right is 555 with 12 items in list
+added angle 358
+dist from right is 555 with 13 items in list
+added angle 359
+dist from right is 555 with 14 items in list
+added angle 0
+dist from right is 555 with 15 items in list
+added angle 1
+dist from right is 555 with 16 items in list
+added angle 2
+dist from right is 555 with 17 items in list
+added angle 3
+dist from right is 555 with 18 items in list
+added angle 4
+dist from right is 555 with 19 items in list
+added angle 5
+dist from right is 555 with 20 items in list
+added angle 6
+dist from right is 555 with 21 items in list
+added angle 7
+dist from right is 555 with 22 items in list
+added angle 8
+dist from right is 555 with 23 items in list
+added angle 9
+dist from right is 554 with 24 items in list
+added angle 10
+dist from right is 554 with 25 items in list
+added angle 11
+dist from right is 554 with 26 items in list
+added angle 12
+dist from right is 554 with 27 items in list
+added angle 13
+dist from right is 554 with 28 items in list
+added angle 14
+dist from right is 554 with 29 items in list
+added angle 15
+dist from right is 554 with 30 items in list
+reset at 346
+dist from right is 556 with 1 items in list
+added angle 347
+dist from right is 556 with 2 items in list
+added angle 348
+dist from right is 556 with 3 items in list
+added angle 349
+dist from right is 556 with 4 items in list
+added angle 350
+dist from right is 556 with 5 items in list
+added angle 351
+dist from right is 556 with 6 items in list
+added angle 352
+dist from right is 556 with 7 items in list
+added angle 353
+dist from right is 556 with 8 items in list
+added angle 354
+dist from right is 556 with 9 items in list
+added angle 355
+dist from right is 556 with 10 items in list
+added angle 356
+dist from right is 555 with 11 items in list
+added angle 357
+dist from right is 555 with 12 items in list
+added angle 358
+dist from right is 555 with 13 items in list
+added angle 359
+dist from right is 555 with 14 items in list
+added angle 0
+dist from right is 555 with 15 items in list
+added angle 1
+dist from right is 555 with 16 items in list
+added angle 2
+dist from right is 555 with 17 items in list
+added angle 3
+dist from right is 555 with 18 items in list
+added angle 4
+dist from right is 555 with 19 items in list
+added angle 5
+dist from right is 555 with 20 items in list
+added angle 6
+dist from right is 555 with 21 items in list
+added angle 7
+dist from right is 555 with 22 items in list
+added angle 8
+dist from right is 555 with 23 items in list
+added angle 9
+dist from right is 555 with 24 items in list
+added angle 10
+dist from right is 554 with 25 items in list
+added angle 11
+dist from right is 554 with 26 items in list
+added angle 12
+dist from right is 554 with 27 items in list
+added angle 13
+dist from right is 554 with 28 items in list
+added angle 14
+dist from right is 554 with 29 items in list
+added angle 15
+dist from right is 554 with 30 items in list
+reset at 346
+dist from right is 556 with 1 items in list
+added angle 347
+dist from right is 556 with 2 items in list
+added angle 348
+dist from right is 556 with 3 items in list
+added angle 349
+dist from right is 556 with 4 items in list
+added angle 350
+dist from right is 555 with 5 items in list
+added angle 351
+dist from right is 556 with 6 items in list
+added angle 352
+dist from right is 556 with 7 items in list
+added angle 353
+dist from right is 556 with 8 items in list
+added angle 354
+dist from right is 555 with 9 items in list
+added angle 355
+dist from right is 555 with 10 items in list
+added angle 356
+dist from right is 555 with 11 items in list
+added angle 357
+dist from right is 555 with 12 items in list
+added angle 358
+dist from right is 555 with 13 items in list
+added angle 359
+dist from right is 555 with 14 items in list
+added angle 0
+dist from right is 555 with 15 items in list
+added angle 1
+dist from right is 555 with 16 items in list
+added angle 2
+dist from right is 555 with 17 items in list
+added angle 3
+dist from right is 555 with 18 items in list
+added angle 4
+dist from right is 555 with 19 items in list
+added angle 5
+dist from right is 555 with 20 items in list
+added angle 6
+dist from right is 555 with 21 items in list
+added angle 7
+dist from right is 555 with 22 items in list
+added angle 8
+dist from right is 555 with 23 items in list
+added angle 9
+dist from right is 554 with 24 items in list
+added angle 10
+dist from right is 554 with 25 items in list
+added angle 11
+dist from right is 554 with 26 items in list
+added angle 12
+dist from right is 554 with 27 items in list
+added angle 13
+dist from right is 554 with 28 items in list
+added angle 14
+dist from right is 554 with 29 items in list
+added angle 15
+dist from right is 554 with 30 items in list
+reset at 346
+dist from right is 556 with 1 items in list
+added angle 347
+dist from right is 556 with 2 items in list
+added angle 348
+dist from right is 556 with 3 items in list
+added angle 349
+dist from right is 556 with 4 items in list
+added angle 350
+dist from right is 556 with 5 items in list
+added angle 351
+dist from right is 556 with 6 items in list
+added angle 352
+dist from right is 556 with 7 items in list
+added angle 353
+dist from right is 556 with 8 items in list
+added angle 354
+dist from right is 555 with 9 items in list
+added angle 355
+dist from right is 555 with 10 items in list
+added angle 356
+dist from right is 555 with 11 items in list
+added angle 357
+dist from right is 555 with 12 items in list
+added angle 358
+dist from right is 555 with 13 items in list
+added angle 359
+dist from right is 555 with 14 items in list
+added angle 0
+dist from right is 555 with 15 items in list
+added angle 1
+dist from right is 555 with 16 items in list
+added angle 2
+dist from right is 555 with 17 items in list
+added angle 3
+dist from right is 555 with 18 items in list
+added angle 4
+dist from right is 555 with 19 items in list
+added angle 5
+dist from right is 555 with 20 items in list
+added angle 6
+dist from right is 555 with 21 items in list
+added angle 7
+dist from right is 555 with 22 items in list
+added angle 8
+dist from right is 555 with 23 items in list
+added angle 9
+dist from right is 555 with 24 items in list
+added angle 10
+dist from right is 554 with 25 items in list
+added angle 11
+dist from right is 554 with 26 items in list
+added angle 12
+dist from right is 554 with 27 items in list
+added angle 13
+dist from right is 554 with 28 items in list
+added angle 14
+dist from right is 554 with 29 items in list
+added angle 15
+dist from right is 554 with 30 items in list
+reset at 346
+dist from right is 556 with 1 items in list
+added angle 347
+dist from right is 556 with 2 items in list
+added angle 348
+dist from right is 556 with 3 items in list
+added angle 349
+dist from right is 556 with 4 items in list
+added angle 350
+dist from right is 555 with 5 items in list
+added angle 351
+dist from right is 556 with 6 items in list
+added angle 352
+dist from right is 555 with 7 items in list
+added angle 353
+dist from right is 555 with 8 items in list
+added angle 354
+dist from right is 555 with 9 items in list
+added angle 355
+dist from right is 555 with 10 items in list
+added angle 356
+dist from right is 555 with 11 items in list
+added angle 357
+dist from right is 555 with 12 items in list
+added angle 358
+dist from right is 555 with 13 items in list
+added angle 359
+dist from right is 555 with 14 items in list
+added angle 0
+dist from right is 555 with 15 items in list
+added angle 1
+dist from right is 555 with 16 items in list
+added angle 2
+dist from right is 555 with 17 items in list
+added angle 3
+dist from right is 555 with 18 items in list
+added angle 4
+dist from right is 555 with 19 items in list
+added angle 5
+dist from right is 555 with 20 items in list
+added angle 6
+dist from right is 555 with 21 items in list
+added angle 7
+dist from right is 555 with 22 items in list
+added angle 8
+dist from right is 555 with 23 items in list
+added angle 9
+dist from right is 554 with 24 items in list
+added angle 10
+dist from right is 554 with 25 items in list
+added angle 11
+dist from right is 554 with 26 items in list
+added angle 12
+dist from right is 554 with 27 items in list
+added angle 13
+dist from right is 554 with 28 items in list
+added angle 14
+dist from right is 554 with 29 items in list
+added angle 15
+dist from right is 554 with 30 items in list
+reset at 346
+dist from right is 556 with 1 items in list
+added angle 347
+dist from right is 556 with 2 items in list
+added angle 348
+dist from right is 556 with 3 items in list
+added angle 349
+dist from right is 556 with 4 items in list
+added angle 350
+dist from right is 555 with 5 items in list
+added angle 351
+dist from right is 556 with 6 items in list
+added angle 352
+dist from right is 555 with 7 items in list
+added angle 353
+dist from right is 555 with 8 items in list
+added angle 354
+dist from right is 555 with 9 items in list
+added angle 355
+dist from right is 555 with 10 items in list
+added angle 356
+dist from right is 555 with 11 items in list
+added angle 357
+dist from right is 555 with 12 items in list
+added angle 358
+dist from right is 555 with 13 items in list
+added angle 359
+dist from right is 555 with 14 items in list
+added angle 0
+dist from right is 555 with 15 items in list
+added angle 1
+dist from right is 555 with 16 items in list
+added angle 2
+dist from right is 555 with 17 items in list
+added angle 3
+dist from right is 555 with 18 items in list
+added angle 4
+dist from right is 555 with 19 items in list
+added angle 5
+dist from right is 555 with 20 items in list
+added angle 6
+dist from right is 554 with 21 items in list
+added angle 7
+dist from right is 554 with 22 items in list
+added angle 8
+dist from right is 554 with 23 items in list
+added angle 9
+dist from right is 554 with 24 items in list
+added angle 10
+dist from right is 554 with 25 items in list
+added angle 11
+dist from right is 554 with 26 items in list
+added angle 12
+dist from right is 554 with 27 items in list
+added angle 13
+dist from right is 554 with 28 items in list
+added angle 14
+dist from right is 554 with 29 items in list
+added angle 15
+dist from right is 554 with 30 items in list
+reset at 346
+dist from right is 556 with 1 items in list
+added angle 347
+dist from right is 556 with 2 items in list
+added angle 348
+dist from right is 556 with 3 items in list
+added angle 349
+dist from right is 556 with 4 items in list
+added angle 350
+dist from right is 556 with 5 items in list
+added angle 351
+dist from right is 556 with 6 items in list
+added angle 352
+dist from right is 556 with 7 items in list
+added angle 353
+dist from right is 556 with 8 items in list
+added angle 354
+dist from right is 556 with 9 items in list
+added angle 355
+dist from right is 556 with 10 items in list
+added angle 356
+dist from right is 555 with 11 items in list
+added angle 357
+dist from right is 555 with 12 items in list
+added angle 358
+dist from right is 555 with 13 items in list
+added angle 359
+dist from right is 555 with 14 items in list
+added angle 0
+dist from right is 555 with 15 items in list
+added angle 1
+dist from right is 555 with 16 items in list
+added angle 2
+dist from right is 555 with 17 items in list
+added angle 3
+dist from right is 555 with 18 items in list
+added angle 4
+dist from right is 555 with 19 items in list
+added angle 5
+dist from right is 555 with 20 items in list
+added angle 6
+dist from right is 555 with 21 items in list
+added angle 7
+dist from right is 555 with 22 items in list
+added angle 8
+dist from right is 555 with 23 items in list
+added angle 9
+dist from right is 555 with 24 items in list
+added angle 10
+dist from right is 554 with 25 items in list
+added angle 11
+dist from right is 554 with 26 items in list
+added angle 12
+dist from right is 554 with 27 items in list
+added angle 13
+dist from right is 554 with 28 items in list
+added angle 14
+dist from right is 554 with 29 items in list
+added angle 15
+dist from right is 554 with 30 items in list
+reset at 346
+dist from right is 556 with 1 items in list
+added angle 347
+dist from right is 556 with 2 items in list
+added angle 348
+dist from right is 556 with 3 items in list
+added angle 349
+dist from right is 556 with 4 items in list
+added angle 350
+dist from right is 556 with 5 items in list
+added angle 351
+dist from right is 556 with 6 items in list
+added angle 352
+dist from right is 556 with 7 items in list
+added angle 353
+dist from right is 556 with 8 items in list
+added angle 354
+dist from right is 555 with 9 items in list
+added angle 355
+dist from right is 555 with 10 items in list
+added angle 356
+dist from right is 555 with 11 items in list
+added angle 357
+dist from right is 555 with 12 items in list
+added angle 358
+dist from right is 555 with 13 items in list
+added angle 359
+dist from right is 555 with 14 items in list
+added angle 0
+dist from right is 555 with 15 items in list
+added angle 1
+dist from right is 555 with 16 items in list
+added angle 2
+dist from right is 555 with 17 items in list
+added angle 3
+dist from right is 555 with 18 items in list
+added angle 4
+dist from right is 555 with 19 items in list
+added angle 5
+dist from right is 555 with 20 items in list
+added angle 6
+dist from right is 555 with 21 items in list
+added angle 7
+dist from right is 555 with 22 items in list
+added angle 8
+dist from right is 555 with 23 items in list
+added angle 9
+dist from right is 554 with 24 items in list
+added angle 10
+dist from right is 554 with 25 items in list
+added angle 11
+dist from right is 554 with 26 items in list
+added angle 12
+dist from right is 554 with 27 items in list
+added angle 13
+dist from right is 554 with 28 items in list
+added angle 14
+dist from right is 554 with 29 items in list
+added angle 15
+dist from right is 554 with 30 items in list
+reset at 346
+dist from right is 556 with 1 items in list
+added angle 347
+dist from right is 556 with 2 items in list
+added angle 348
+dist from right is 556 with 3 items in list
+added angle 349
+dist from right is 556 with 4 items in list
+added angle 350
+dist from right is 555 with 5 items in list
+added angle 351
+dist from right is 556 with 6 items in list
+added angle 352
+dist from right is 555 with 7 items in list
+added angle 353
+dist from right is 555 with 8 items in list
+added angle 354
+dist from right is 555 with 9 items in list
+added angle 355
+dist from right is 555 with 10 items in list
+added angle 356
+dist from right is 555 with 11 items in list
+added angle 357
+dist from right is 555 with 12 items in list
+added angle 358
+dist from right is 555 with 13 items in list
+added angle 359
+dist from right is 555 with 14 items in list
+added angle 0
+dist from right is 555 with 15 items in list
+added angle 1
+dist from right is 555 with 16 items in list
+added angle 2
+dist from right is 555 with 17 items in list
+added angle 3
+dist from right is 555 with 18 items in list
+added angle 4
+dist from right is 555 with 19 items in list
+added angle 5
+dist from right is 555 with 20 items in list
+added angle 6
+dist from right is 555 with 21 items in list
+added angle 7
+dist from right is 555 with 22 items in list
+added angle 8
+dist from right is 555 with 23 items in list
+added angle 9
+dist from right is 554 with 24 items in list
+added angle 10
+dist from right is 554 with 25 items in list
+added angle 11
+dist from right is 554 with 26 items in list
+added angle 12
+dist from right is 554 with 27 items in list
+added angle 13
+dist from right is 554 with 28 items in list
+added angle 14
+dist from right is 554 with 29 items in list
+added angle 15
+dist from right is 554 with 30 items in list
+reset at 346
+dist from right is 556 with 1 items in list
+added angle 347
+dist from right is 556 with 2 items in list
+added angle 348
+dist from right is 556 with 3 items in list
+added angle 349
+dist from right is 556 with 4 items in list
+added angle 350
+dist from right is 555 with 5 items in list
+added angle 351
+dist from right is 556 with 6 items in list
+added angle 352
+dist from right is 555 with 7 items in list
+added angle 353
+dist from right is 555 with 8 items in list
+added angle 354
+dist from right is 555 with 9 items in list
+added angle 355
+dist from right is 555 with 10 items in list
+added angle 356
+dist from right is 555 with 11 items in list
+added angle 357
+dist from right is 555 with 12 items in list
+added angle 358
+dist from right is 555 with 13 items in list
+added angle 359
+dist from right is 555 with 14 items in list
+added angle 0
+dist from right is 555 with 15 items in list
+added angle 1
+dist from right is 555 with 16 items in list
+added angle 2
+dist from right is 555 with 17 items in list
+added angle 3
+dist from right is 555 with 18 items in list
+added angle 4
+dist from right is 555 with 19 items in list
+added angle 5
+dist from right is 555 with 20 items in list
+added angle 6
+dist from right is 555 with 21 items in list
+added angle 7
+dist from right is 555 with 22 items in list
+added angle 8
+dist from right is 554 with 23 items in list
+added angle 9
+dist from right is 554 with 24 items in list
+added angle 10
+dist from right is 554 with 25 items in list
+added angle 11
+dist from right is 554 with 26 items in list
+added angle 12
+dist from right is 554 with 27 items in list
+added angle 13
+dist from right is 554 with 28 items in list
+added angle 14
+dist from right is 554 with 29 items in list
+added angle 15
+dist from right is 554 with 30 items in list
+reset at 346
+dist from right is 556 with 1 items in list
+added angle 347
+dist from right is 556 with 2 items in list
+added angle 348
+dist from right is 556 with 3 items in list
+added angle 349
+dist from right is 556 with 4 items in list
+added angle 350
+dist from right is 556 with 5 items in list
+added angle 351
+dist from right is 556 with 6 items in list
+added angle 352
+dist from right is 556 with 7 items in list
+added angle 353
+dist from right is 556 with 8 items in list
+added angle 354
+dist from right is 555 with 9 items in list
+added angle 355
+dist from right is 555 with 10 items in list
+added angle 356
+dist from right is 555 with 11 items in list
+added angle 357
+dist from right is 555 with 12 items in list
+added angle 358
+dist from right is 555 with 13 items in list
+added angle 359
+dist from right is 555 with 14 items in list
+added angle 0
+dist from right is 555 with 15 items in list
+added angle 1
+dist from right is 555 with 16 items in list
+added angle 2
+dist from right is 555 with 17 items in list
+added angle 3
+dist from right is 555 with 18 items in list
+added angle 4
+dist from right is 555 with 19 items in list
+added angle 5
+dist from right is 555 with 20 items in list
+added angle 6
+dist from right is 555 with 21 items in list
+added angle 7
+dist from right is 555 with 22 items in list
+added angle 8
+dist from right is 554 with 23 items in list
+added angle 9
+dist from right is 554 with 24 items in list
+added angle 10
+dist from right is 554 with 25 items in list
+added angle 11
+dist from right is 554 with 26 items in list
+added angle 12
+dist from right is 554 with 27 items in list
+added angle 13
+dist from right is 554 with 28 items in list
+added angle 14
+dist from right is 554 with 29 items in list
+added angle 15
+dist from right is 554 with 30 items in list
+reset at 346
+dist from right is 556 with 1 items in list
+added angle 347
+dist from right is 556 with 2 items in list
+added angle 348
+dist from right is 556 with 3 items in list
+added angle 349
+dist from right is 556 with 4 items in list
+added angle 350
+dist from right is 555 with 5 items in list
+added angle 351
+dist from right is 556 with 6 items in list
+added angle 352
+dist from right is 556 with 7 items in list
+added angle 353
+dist from right is 556 with 8 items in list
+added angle 354
+dist from right is 555 with 9 items in list
+added angle 355
+dist from right is 555 with 10 items in list
+added angle 356
+dist from right is 555 with 11 items in list
+added angle 357
+dist from right is 555 with 12 items in list
+added angle 358
+dist from right is 555 with 13 items in list
+added angle 359
+dist from right is 555 with 14 items in list
+added angle 0
+dist from right is 555 with 15 items in list
+added angle 1
+dist from right is 555 with 16 items in list
+added angle 2
+dist from right is 555 with 17 items in list
+added angle 3
+dist from right is 555 with 18 items in list
+added angle 4
+dist from right is 555 with 19 items in list
+added angle 5
+dist from right is 555 with 20 items in list
+added angle 6
+dist from right is 555 with 21 items in list
+added angle 7
+dist from right is 555 with 22 items in list
+added angle 8
+dist from right is 555 with 23 items in list
+added angle 9
+dist from right is 554 with 24 items in list
+added angle 10
+dist from right is 554 with 25 items in list
+added angle 11
+dist from right is 554 with 26 items in list
+added angle 12
+dist from right is 554 with 27 items in list
+added angle 13
+dist from right is 554 with 28 items in list
+added angle 14
+dist from right is 554 with 29 items in list
+added angle 15
+dist from right is 554 with 30 items in lis
